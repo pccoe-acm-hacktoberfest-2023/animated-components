@@ -14,18 +14,16 @@ Create animated components using HTML, CSS, JS and get them featured [here](http
 - Link the html file of your component to the link on the card created at [index.html](https://github.com/pccoe-acm-hacktoberfest-2023/animated-components/blob/main/index.html) file.
 - Create a new card for every new component that you make.
 - Also remember to increment the counter of your card.
-
 - Please take a look at the [sample component](https://github.com/pccoe-acm-hacktoberfest-2023/animated-components/tree/main/Sample) to understand the folder structure better.
 - You can contribute to as many components as you like. <b>You can add cool animated components of your own by creating an issue!</b>
-  > NOTE: Please do NOT create a pull request unless the issue has been assigned to you else the pull request will be marked `invalid`
 
 ### Folder Structure
 
 1. Create a new folder with the name of your component
 2. Create another folder inside it with your github username
-2. Add your files to your newly created folder with the proper naming convention as specified above
-3. In the [index.html](https://github.com/pccoe-acm-hacktoberfest-2023/animated-components/blob/main/index.html) file add a comment stating your component name
-4. Below the comment create a new card. The code for the card is as below: <br>
+3. Add your files to your newly created folder with the proper naming convention as specified above
+4. In the [index.html](https://github.com/pccoe-acm-hacktoberfest-2023/animated-components/blob/main/index.html) file add a comment stating your component name
+5. Below the comment create a new card. The code for the card is as below: <br>
 
 ```
 <!--     Sample Component (Replace the name with your component name  -->
@@ -61,7 +59,6 @@ Create animated components using HTML, CSS, JS and get them featured [here](http
 <p>Describe your component in 12-15 words.</p>
 ```
 
-
 ## How to Contribute?
 
 - Take a look at the existing issues or create your own Issues
@@ -71,4 +68,3 @@ Create animated components using HTML, CSS, JS and get them featured [here](http
 - Create a Pull Request which will be reviewed by the maintainers and suggestions would be added to improve it (if needed)
 - Describe what your codeblock / function does in the PR.
 - Having difficulty in contributing? Read the [Contribution Guide](CONTRIBUTING.md) for a detailed explanation.
-
