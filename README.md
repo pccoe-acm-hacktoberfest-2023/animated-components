@@ -4,7 +4,7 @@ Create animated components using HTML, CSS, JS and get them featured [here](http
 
 ## Latest Announcements 📢
 
-🔴 The PRs made in this repo will not be considered for the official hacktoberfest (conducted by digitalocean).
+
 
 ## Contribution Guidelines
 
